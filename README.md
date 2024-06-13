@@ -1,7 +1,3 @@
-Sure! Here’s the updated README file to include TypeScript:
-
----
-
 # Full-Stack Blogging Web Application
 
 ## Overview
